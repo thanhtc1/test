@@ -4,7 +4,7 @@ DON XIN LAM VIEC
 CAM KET LAM VIEC
 -----------
 ddddddddddddddddddddddddddddddddddd11111111111111111111111 in tct1 folder
-ddddddddddddddddddddddddddddddddddd2222222222222222222222 in tct1 folder
+COTHEM VAO DAY ddddddddddddddddddddddddddddddddddd2222222222222222222222 in  folder
 Kinh gui: ABC
 Noi dung:
 
@@ -13,7 +13,9 @@ Hom nay, chung toi la, can lam viec nhu sau
 Cam ket:
 
 ngay gio, dia diem
-Ky ten
+
+
+SIGN HERE
 
 MINH3K: DELETE THE FIRST LINE AND ADD 2 LINES ( THIS ONE, AND THEONE BELOW)
 THE SECOND LINE BE MINH3K
