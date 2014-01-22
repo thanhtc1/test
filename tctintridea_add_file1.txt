@@ -1,4 +1,3 @@
-this file is file1 added by tctintridea
 cong hoa xa hoi chu nghia viet nam
 doc lap tu do hanh phuc
 DON XIN LAM VIEC
@@ -14,3 +13,5 @@ Cam ket:
 ngay gio, dia diem
 Ky ten
 
+MINH3K: DELETE THE FIRST LINE AND ADD 2 LINES ( THIS ONE, AND THEONE BELOW)
+THE SECOND LINE BE MINH3K
